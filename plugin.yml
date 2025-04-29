@@ -1,0 +1,9 @@
+name: Plugins
+version: '1.0-SNAPSHOT'
+main: Plugintest.plugins.Plugins
+api-version: '1.21'
+
+commands:
+  gravswitch:
+    description: flips player gravity.
+    usage: /gravswitch
